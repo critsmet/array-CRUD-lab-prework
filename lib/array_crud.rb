@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  dogs = [Max, Dougie, Penny, Betty]
+  dogs = ["Max", "Dougie", "Penny", "Betty"  ]
 end
 
 def add_element_to_end_of_array(array, element)
-  dogs << [Lana]
+  dogs << ["Lana"]
 end
 
 def add_element_to_start_of_array(array, element)
